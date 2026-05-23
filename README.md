@@ -1,6 +1,3 @@
-# TreeKinatorProject
-TreeKinatorProject_DataStructure
-
 # 🌳 TreeKinator — Binary Tree Informatics Recommendation System
 
 TreeKinator adalah aplikasi berbasis **Binary Tree Decision System** yang membantu pengguna menentukan jalur pembelajaran, bahasa pemrograman, framework, dan teknologi terbaik berdasarkan minat di bidang Informatika.
@@ -170,7 +167,7 @@ npm -v
 # 📥 Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BINARY_TREE_PROJECT.git
+git clone https://github.com/farhanindonesianizam-sudo/TreeKinatorProject.git
 ```
 
 Masuk ke folder project:
@@ -709,11 +706,13 @@ http://127.0.0.1:8000
 # 👨‍💻 Developer
 
 Developed by:
-
-# Farhan Nizam S.A
+# Pascal Eyota
+# Farhan Nizam S.A 
+# Daniel Abner
 
 ---
 
 # 📜 License
 
 This project is licensed under the MIT License.
+````
